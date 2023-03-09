@@ -1,4 +1,5 @@
 # NAUTILUS
+<img src="https://static.vecteezy.com/system/resources/previews/007/355/617/original/abstract-gray-perspective-dot-on-black-background-free-vector.jpg">
 neural network for earthquake prediction - deep learning for earthquake prediction.
 
 <p>
